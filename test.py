@@ -18,4 +18,4 @@ display(df)
 
 # COMMAND ----------
 
-df.rdd.getNumPartitions()
+'''lalala'''
