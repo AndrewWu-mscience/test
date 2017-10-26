@@ -18,4 +18,8 @@ display(df)
 
 # COMMAND ----------
 
-'''lalala'''
+df.rdd.getNumPartitions()
+
+# COMMAND ----------
+
+'''lalalalalalalalala'''
