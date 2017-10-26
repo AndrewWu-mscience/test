@@ -19,11 +19,3 @@ display(df)
 # COMMAND ----------
 
 df.rdd.getNumPartitions()
-
-# COMMAND ----------
-
-'''lalalalalalalalala'''
-
-# COMMAND ----------
-
-'master branch'
